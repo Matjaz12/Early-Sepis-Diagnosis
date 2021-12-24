@@ -4,7 +4,7 @@
 
 ### Data 
 Data folder contains the processed data used through out the project.<br>
-Data is imputed and containes all features, but Unit1, Unit2.<br>
+Data is imputed and containes all features.<br>
 Data is split into train, test, validation dataframes.<br>
 
 ### Models
