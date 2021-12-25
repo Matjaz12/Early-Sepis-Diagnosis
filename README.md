@@ -1,4 +1,4 @@
-# Early Sepis Diagnosis using Machine Learning
+# Early Sepsis Diagnosis using Machine Learning
 
 ## Strucuture
 
