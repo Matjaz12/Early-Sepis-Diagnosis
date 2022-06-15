@@ -1,7 +1,7 @@
 # Early Sepsis Diagnosis using Machine Learning
 
 ## Strucuture
-The project was developed for course: `Machine Learning (Master's degree, FRI 2022)`. 
+The project was developed for course [Machine Learning](https://www.fri.uni-lj.si/en/course/63519)
 
 ### Data 
 Data folder contains the processed data used through out the project.<br>
